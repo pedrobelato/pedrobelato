@@ -8,6 +8,8 @@
 
 -   🌱 &nbsp; After college, i'm pretending start a MBA - Software Engineer and also improve React Native and english language skills with courses.
 
+
+
 <h3> :rocket: &nbsp;My Tech Skills Summary</h3>
 
 **Languages and Frameworks**
@@ -43,7 +45,6 @@
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://www.gmail.com/" target="_blank">
-   pedrohbelato.ph52@gmail.com
    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
