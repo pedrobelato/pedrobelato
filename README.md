@@ -1,12 +1,12 @@
 <a href="https://github-com.translate.goog/MoraesGil?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp">BR? Tradução 🇧🇷</a>
 
-<h3> :man: &nbsp;About me</h3>
+<h3> 👦: &nbsp;About me</h3>
 
--   👨‍👩‍👦 &nbsp; I love my family.
--   🎓 &nbsp; I studying <b>Information's Systems</b> in Faculdade de Informática de Presidente Prudente (FIPP) - UNOESTE since August, 2018 till June, 2022. Check it out at <a href="https://www.unoeste.br/graduacao/faculdade-de-sistemas-informacao">University</a>
+-   👨‍👩‍👦‍👦 &nbsp; I love my family.
+-   🎓 &nbsp; I studying <b>Information's Systems</b> in Faculdade de Informática de Presidente Prudente (FIPP) - UNOESTE since August, 2018 till June, 2022. Check it out at <a href="https://www.unoeste.br/graduacao/faculdade-de-sistemas-informacao">University Web Site</a>
 -   👨🏻‍💻 &nbsp; Currently, i'm working as a Full-Stack developer with APIs, modeling databases, and queries. Also, i've started an project experience building an app in React Native for my company about management of medical evaluations.
 
--   🌱 &nbsp; After college, i'm pretending start a MBA - Software Engineer and also improve React Native and english language skills with courses.
+-   💡 &nbsp; After college, i'm pretending start a MBA - Software Engineer and also improve React Native and english language skills with courses.
 
 
 
@@ -14,6 +14,8 @@
 
 **Languages and Frameworks**
 
+![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Typecript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
