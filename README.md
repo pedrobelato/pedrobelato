@@ -42,7 +42,8 @@
   <a href="https://www.linkedin.com/in/pedro-belato-476513229/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://www.youtube.com/channel/UCuHv1xKgaJwlUz_lRWp0Kmg" target="_blank">
+  <a href="https://www.gmail.com/" target="_blank">
+   pedrohbelato.ph52@gmail.com
    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
